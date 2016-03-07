@@ -13,3 +13,7 @@ h1, h2 {
 #imagecontainer {
 	text-align: center;
 }
+
+img {
+	width: 540px;
+}
