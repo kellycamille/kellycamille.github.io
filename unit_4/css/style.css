@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Catamaran:300);
+h1, h2 {
+	color: #ff3399;
+}
+
+h1, h2 {
+	text-align: center;
+	font-family: 'Indie Flower', cursive;;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+#imagecontainer {
+	text-align: center;
+}
+
+img {
+	width: 540px;
+}
+
+p, ul {
+	font-family: 'Catamaran', sans-serif;
+}
