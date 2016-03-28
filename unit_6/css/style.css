@@ -1,85 +1,56 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Catamaran:300);
-h1, h2, {
-	color: pink;
+h1, h2 {
+	color: #ff3399;
 }
-
 h1, h2 {
 	text-align: center;
-	font-family: 'Indie Flower', cursive;
+	font-family: 'Indie Flower', cursive;;
 }
-
 #slogan {
 	font-style: italic;
 }
-
 #imagecontainer {
 	text-align: center;
 }
-
 img {
 	width: 540px;
 }
-
 p, ul {
 	font-family: 'Catamaran', sans-serif;
 }
-
+ul	{
+	list-style-type: none;
+}
 header {
 	padding: 20px;
 }
-
-nav {
-	text-decoration: none;
-	color: #000000;
-	padding: 20px;
-	font-size: 1.8em;
-	display: inline-block;
-	float: right;
-}
-
-#one	{
-	border: 1px black solid;
+#two_column	{
 	padding: 20px;
 }
-
-#spotlight {
-	border: 1px black solid;
+#why_mentor	{
 	padding: 20px;
 	float: left;
 	width: 30%;
 }
-
-#why_mentor	{
-	border: 1px black solid;
-	padding: 20px;
-	float: center;
-	width: 30%;
-}
-
 #workshops	{
-	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 30%;
+	width: 62%;
+	text-align: center;
 }
-
+footer {
+	padding: 20px;
+}
+div/section {
+	background-color: #FFE2B8;
+	padding: 20px;
+}
 .clearfix:after	{
-	visibility: clear;
+	visibility: hidden;
 	display: block;
 	font-size: 0;
 	content: " ";
 	clear: both;
 	height: 0;
-}
-
-footer {
-	text-align: center;
-	border: 1px black solid;
-	padding: 1em 0;
-}
-
-div/section {
-	border: 1px black solid;
-	padding: 20px;
 }
