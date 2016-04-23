@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+body {
+	background: url("images/ag.jpg");
+	background-size: cover;
+	font-size: 100%;
+}
+
+img {
+	margin-bottom: 5px;
+	width: auto;
+	background-color: #aaaaaa;
+}
+
+hr {
+	border: none;
+	height: 3px;
+	background-color: #E5218F;
+	display: 400px;
+}
+
+h1 {
+	font-size: 3.5em;
+}
+
+h2 {
+	font-size: 1.25em;
+	text-align: center;
+	font-size: 2em;
+}
+
+h1, h2, #slogan {
+	color: #E5218F;
+	font-family: 'Indie Flower', "Comic Sans MS", sans-serif;
+}
+
+a {
+	text-decoration: none;
+	padding-bottom: 2px;
+}
+
+#slogan {
+	font-style: italic;
+	text-transform: capitalize;
+}
+
+nav {
+	background-color: #E5218F;
+	color: white;
+	width: auto;
+}
+
+#navlinks {
+	font-family: "Helvetica", sans-serif;
+	color: white; 
+	border: none;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 2px;
+	text-align: center;
+}
+
+nav a {
+	color: white;
+	margin: 1.8em;
+	display: inline-block;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	font-style: Helvetica, Arial, sans-serif; 
+	font-size: 18px;
+	line-height: 1.5em;
+	width: 30em;
+}

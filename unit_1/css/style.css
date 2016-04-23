@@ -1,7 +1,8 @@
-body {
-	background-color: gray;
+hr {
+	200px;
 }
 
-h1, p {
-	color: pink;
+body {
+	background: url("images/ag.jpg");
+	background-size: cover;
 }
