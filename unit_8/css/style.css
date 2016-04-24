@@ -12,6 +12,10 @@ img {
 	background-color: #aaaaaa;
 }
 
+div {
+	align-content: center;
+}
+
 hr {
 	border: none;
 	height: 3px;
